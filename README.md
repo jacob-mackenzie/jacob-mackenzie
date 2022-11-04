@@ -1,4 +1,5 @@
-#Jacob Mackenzie
-##Developer at Wesco
+**Jacob Mackenzie**
+
+**Developer at Wesco**
 
 Currently located in the Chicagoland area
